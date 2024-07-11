@@ -12,6 +12,7 @@ Once Human MIDI Player is a Python-based application that allows users to play M
 ## Instructions
 
 - **Step One**: Download the Once Human Midi Player.exe.
+https://github.com/Frostipanda/Once-Human-Midi-Player/blob/main/OnceHumanMidiPlayer.exe
 - **Step Two**: Run the program as administrator.
 - **Step Three**: Click "Browse" and select the Midi file you wish to play.
 - **Step Four**: Select any optional functions you want. (+ Pitch, Loop, etc.).
