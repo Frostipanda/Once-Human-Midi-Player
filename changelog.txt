@@ -1,0 +1,25 @@
+# Changelog
+
+## [0.21] - 2024-07-11
+### Initial Release
+- **MIDI Playback**: Play MIDI files and simulate key presses based on MIDI notes.
+- **Pitch Adjustment**: Options to adjust the pitch up (+Pitch) or down (-Pitch) by one step.
+- **Looping**: Enable looping of MIDI files with the Loop checkbox.
+- **Update Checker**: Automatically check for new versions at startup and prompt the user to update if a new version is available.
+- **Graphical User Interface**: User-friendly interface built with Tkinter, including:
+  - File selection dialog for choosing MIDI files.
+  - Radio buttons for pitch adjustment options.
+  - Loop checkbox to enable/disable looping.
+  - Start Playback button to start playing the selected MIDI file.
+  - Progress bar to show the current progress of MIDI playback.
+  - Label displaying the name of the currently playing MIDI file.
+  - Version number displayed at the bottom right corner of the window.
+
+### Fixed
+- N/A (Initial release)
+
+### Changed
+- N/A (Initial release)
+
+### Removed
+- N/A (Initial release)
