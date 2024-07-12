@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.25] - 2024-07-12
+### Added
+- **Playback Speed Control**: Added a slider to adjust playback speed from 50% to 150%.
+- **Help Button**: Added a '?' button that opens the changelog webpage.
+
+### Fixed
+- **Modifier Key Handling**: Improved handling of Control and Shift keys to reduce lag and hold the keys only when necessary.
+- **Progress Bar and Label Reset**: Automatically reset the progress bar and "Currently Playing" label when a song finishes or is stopped using F6.
+
+### Changed
+- **Playback Logic**: Optimized the `play_midi` function for better performance and reduced lag during playback.
+
+### Removed
+- N/A
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 ## [0.21] - 2024-07-11
 ### Initial Release
 - **MIDI Playback**: Play MIDI files and simulate key presses based on MIDI notes.
