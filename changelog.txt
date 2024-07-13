@@ -1,5 +1,9 @@
 # Changelog
 
+[0.26] - 2024-07-12
+Hot Fix
+Note Playback: Ensure that repeated notes (e.g., Shift+E) are played correctly even when the same key is pressed multiple times in succession.
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 ## [0.25] - 2024-07-12
 ### Added
 - **Playback Speed Control**: Added a slider to adjust playback speed from 50% to 150%.
