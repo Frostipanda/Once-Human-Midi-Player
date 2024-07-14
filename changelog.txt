@@ -1,5 +1,34 @@
 # Changelog
+## [0.28] - 2024-07-14
+### Added
+- **Track Selection**: Now instead of the MIDI attempting to play all tracks simultaneously it will default to Track 1.
+- **Play All Tracks**: A button has been added to play all tracks simultaneously like previous versions. Songs that include multiple tracks of multiple instruments will have probelms.
+- **Virtual Keyboard**: Added a virtual keyboard to respresent which notes the program is pressing.
+- **Always On Top Button**: Added a button to always keep the MIDI player on top even when not in focus.
 
+### Fixed
+- **Modifier Key Handling**: Further improved handling of Control and Shift keys to reduce lag and hold the keys only when necessary.
+- **UI Layout**: Improved the layout of the program to be more uniform.
+
+### Changed
+- **Playback Logic**: Further optimized the `play_midi` function for better performance and reduced lag during playback.
+
+### Removed
+- **Playlist Mode**: Because of serious complications with Playlist Mode it has been removed until future patches.
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+## [0.27b Internal] (Dubbed "Nightmare Patch" from internal tests) - 2024-07-14
+### Added
+- **Playlist Mode**: Added a playlist mode where users can add multiple songs and play them all back to back
+
+### Fixed
+- **Modifier Key Handling**: Further improved handling of Control and Shift keys to reduce lag and hold the keys only when necessary.
+
+### Changed
+- **Playback Logic**: Further optimized the `play_midi` function for better performance and reduced lag during playback.
+
+### Removed
+- N/A
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 [0.26] - 2024-07-12
 Hot Fix
 Note Playback: Ensure that repeated notes (e.g., Shift+E) are played correctly even when the same key is pressed multiple times in succession.
