@@ -1,5 +1,5 @@
 # Changelog
-## [0.28H Hotfix] - 2024-07-14
+## [0.29] - 2024-07-14
 ### Added
 - **Icon**: Added a program icon instead of the default one.
 - **Discord Button**: Added a discord button that will link to the Once Human Midi Player Discord.
