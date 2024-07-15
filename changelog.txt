@@ -1,4 +1,19 @@
 # Changelog
+## [0.28H Hotfix] - 2024-07-14
+### Added
+- **Icon**: Added a program icon instead of the default one.
+- **Discord Button**: Added a discord button that will link to the Once Human Midi Player Discord.
+
+### Fixed
+- **Track UI**: Made the Track selection more streamlined instead of a list.
+- **Track Selection**: Fixed an issue where sometimes tracks would get mixed up or not play at all.
+
+### Changed
+- N/A
+
+### Removed
+- N/A
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 ## [0.28] - 2024-07-14
 ### Added
 - **Track Selection**: Now instead of the MIDI attempting to play all tracks simultaneously it will default to Track 1.
