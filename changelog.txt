@@ -1,4 +1,20 @@
 # Changelog
+## [0.30] Re-Release Hotfix - 2024-07-17
+### Added
+N/A
+
+### Fixed
+Midi Player being falsely flagged as a Trojan
+https://www.virustotal.com/gui/file/1f65d4e33086ca461cda2f6a4cfc13b92a2d85dfb333f7f89ad3b85dc555a73d?nocache=1
+Piano Mapping: We discovered an issue where certain keys were not mapped properly as well as Shift Notes not playing correctly. This has been resolved and songs will sound much better.
+
+### Changed
+.exe to .bat - Requires extra steps for install.
+open source - Code is now open source and viewable by all.
+
+### Removed
+N/A
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 ## [0.29] - 2024-07-14
 ### Added
 - **Icon**: Added a program icon instead of the default one.
