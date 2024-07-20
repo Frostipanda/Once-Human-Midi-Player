@@ -1,4 +1,24 @@
 # Changelog
+## [0.31] Release - 2024-07-20
+
+### Added
+- Ignore Keys: Added a dropdown to ignore Shift, Control or Shift+Control Keys for songs to help reduce the lag in game.
+
+### Fixed
+- Midi Playback: Minor tweaks to playback delays between keys.
+- Launcher: New Launcher.bat has been updated to resolve "python not found" with specific users.
+
+### Changed
+- Play All Tracks: Toggle is now on by default.
+- UI Layout: @psystec Took his time to clean up the UI and make it more compact and appealing to the eye. :heart~1: 
+
+### Removed
+N/A
+
+### Known Issues
+- Pitch: + Pitch and - Pitch buttons currently not working. We are looking into this but they weren't being used consistently by users, this will be fixed with a hotfix.
+
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 ## [0.30] Re-Release Hotfix - 2024-07-17
 ### Added
 N/A
