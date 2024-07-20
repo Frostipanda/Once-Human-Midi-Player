@@ -10,7 +10,7 @@
 
 ### Changed
 - Play All Tracks: Toggle is now on by default.
-- UI Layout: @psystec Took his time to clean up the UI and make it more compact and appealing to the eye. :heart~1: 
+- UI Layout: UI has received an update to look more appealing and compact.
 
 ### Removed
 N/A
