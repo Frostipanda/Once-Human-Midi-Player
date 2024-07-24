@@ -10,7 +10,7 @@ Once Human MIDI Player is a Python-based application that allows users to play M
 - **Update Checker**: Checks for updates when the application starts and notifies the user if a new version is available.
 
 ## Instructions to Install
-- Step One: Download the Once Human Midi Player.
+- Step One: Download the Once Human Midi Player from the discord channel.
 - Step Two: Extract the contents into a folder (this includes the .py, images and .bat).
 - Step Three: Download the latest Python Version 
 - https://www.python.org/downloads/
