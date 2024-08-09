@@ -17,8 +17,8 @@ namespace MidiPlayer
             using (SplashScreen splash = new SplashScreen())
             {
                 splash.Show();
-                Application.DoEvents(); // Process all windows messages
-                Thread.Sleep(3000); // Wait for 3 seconds
+                Application.DoEvents();
+                Thread.Sleep(3000);
             }
 
             // Now show the main form
