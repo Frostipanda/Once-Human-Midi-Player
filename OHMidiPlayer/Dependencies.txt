@@ -1,0 +1,3 @@
+.NET Framework or .NET Core: Base classes and libraries.
+NAudio: For MIDI handling and audio operations.
+WindowsInput: For simulating keyboard inputs.
