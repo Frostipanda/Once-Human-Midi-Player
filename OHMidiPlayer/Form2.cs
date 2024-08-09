@@ -13,7 +13,7 @@ namespace MidiPlayer
         // This is the method the designer is referencing.
         private void SplashScreen_Load(object sender, EventArgs e)
         {
-            // You can add any initialization code here if needed.
+         
         }
     }
 }
